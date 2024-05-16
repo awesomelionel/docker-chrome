@@ -1,5 +1,6 @@
 require "sinatra"
 require "selenium-webdriver"
+require "google/cloud/secret_manager"
 
 #use Google::Cloud::Logging::Middleware
 
